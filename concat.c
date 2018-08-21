@@ -10,7 +10,7 @@ int main(){
 	concat(s1,s2);
 	printf("\n the concatenated strring is :");
 	puts(s1);
-	
+	//this is the concatenated string
 	return 0;
 }
 void concat(char s1[],char s2[]){
