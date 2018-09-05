@@ -4,6 +4,7 @@ struct tnode{
 	int data;
 	struct tnode *left;
 	struct tnode *right;
+// this is the comment
 };
 typedef struct tnode *tn;
 tn createnode(tn root,int data){
