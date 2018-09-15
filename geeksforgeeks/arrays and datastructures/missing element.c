@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//program reference  https://www.geeksforgeeks.org/find-the-missing-number/
 int main(){
 	int n;
 	scanf("%d",&n);
