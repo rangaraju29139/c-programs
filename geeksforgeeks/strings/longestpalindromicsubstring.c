@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+//the link to the program is https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
+
 void printTable(int **table,int n){
 	int i,j;
 	 for(i=0;i<n;i++){
